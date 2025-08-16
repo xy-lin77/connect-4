@@ -1,0 +1,2 @@
+allowedUndo: 2
+allowedHelp: 10000

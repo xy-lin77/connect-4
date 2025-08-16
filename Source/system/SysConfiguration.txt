@@ -1,0 +1,2 @@
+allowedUndo: 1
+allowedHelp: 2
