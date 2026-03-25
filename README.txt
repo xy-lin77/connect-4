@@ -11,10 +11,10 @@ Group 27
 
 +------------------------------+----------+---------------------------+
 | Name (in alphabetical order) | SID      | Role                      |
-| Fong Tsz Wai                 | 57156110 | Program Developer         |
-| JI Xin                       | 40147182 | Program Developer         |
+| Fong Tsz Wai                 | 57156110 | Developer                 |
+| JI Xin                       | 40147182 | Developer                 |
 | Ka Lam Mark Alexander LEE    | 56759365 | Program Tester            |
-| LIN Xiaoyang                 | 57126676 | Program Manager           |
+| LIN Xiaoyang                 | 57126676 | Project Manager           |
 | SONG Rui                     | 57126559 | Assistant Program Manager |
 +------------------------------+----------+---------------------------+
 
